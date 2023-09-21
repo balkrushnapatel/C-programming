@@ -17,7 +17,7 @@ void main(){
 		i=m;
 	    while(i>=m && i<=n){
 	    if(i%2==0){
-	
+			printf("%d\t",i);
 		} 
 		i=i+1;
 	}
